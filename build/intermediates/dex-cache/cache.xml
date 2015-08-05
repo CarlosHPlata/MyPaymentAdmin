@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\build\intermediates\exploded-aar\com.github.clans\fab\1.5.5\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="aaa2fcc429aaad555dbb17ac914b846ca234a3a5">
+        <dex dex="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\build\intermediates\pre-dexed\debug\classes-8f3d61201cb627c82a22e96e86e436d04e169321.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-683031dd717f45cb2c4de4ccb51bd01b44725c1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\build\intermediates\pre-dexed\debug\classes-814bd64b6972864b090b8938b79576c9beb9a358.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\build\intermediates\pre-dexed\debug\classes-0b4b22481538809de7fdc9ed03ea2eee46cb8e80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\libs\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-358231cb920d846c124020c56a2d9d3498bcf911.jar" />
+    </item>
+    <item
+        jar="C:\Users\Usuario\programas\Eclipse android developers\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Usuario\Proyectosandroid\MyPaymentAdmin\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-68c9b4a6d75fced37626b529d685ebbd453c3ef2.jar" />
+    </item>
+
+</items>
